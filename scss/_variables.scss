@@ -1,0 +1,10 @@
+//Colors
+$primary-color: red;
+$primary-color-comp: complement($primary-color);
+$primary-color-light: lighten($primary-color, 20);
+$primary-color-dark: darken($primary-color, 30);
+
+//Breackpoints
+$breackpoint-sm: 480px;
+$breackpoint-md: 768px;
+$brackpoint-lg: 1024px;
